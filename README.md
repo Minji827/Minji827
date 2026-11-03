@@ -16,7 +16,7 @@
 
 | 저장소·프로젝트 | 어떤 프로젝트인가요? |
 |---|---|
-| shareLedgre | 다른 사람과 공유할 수 있는 가계부 앱. [서비스](https://share-ledgre.vercel.app/auth) |
+| shareLedgre | 다른 사람과 공유할 수 있는 가계부 앱. [서비스 링크](https://share-ledgre.vercel.app/auth) |
 | InterviewCoaching | AI 면접 중 눈의 흔들림을 분석하고 피드백을 제공하는 프로그램 |
 | hobby Garden | GitHub 잔디처럼 습관 실천을 기록해 꾸준함과 성취감을 느끼도록 만든 프로젝트 |
 | [rag](https://github.com/Minji827/rag) | RAG 만들기 연습. 문서 처리와 리랭커 예제 실습 |
